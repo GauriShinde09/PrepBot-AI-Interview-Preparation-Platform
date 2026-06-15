@@ -12,7 +12,7 @@ PrepBot is a full-stack web application designed to help users prepare for techn
 
 ## 🔗 Live Demo
 
-👉 https://your-live-demo-link.vercel.app
+👉https://interview-assist-ai.vercel.app
 
 ---
 
