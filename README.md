@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-success)
+![Grok AI](https://img.shields.io/badge/Grok-AI-orange)
+
+
 # 🚀 PrepBot
 
 ### AI-Powered Interview Preparation Platform
